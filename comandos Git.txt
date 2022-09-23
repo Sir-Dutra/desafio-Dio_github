@@ -1,0 +1,8 @@
+alguns comandos git
+
+Git init
+Git clone 
+Git add
+Git commit
+Git push
+Git status
