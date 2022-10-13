@@ -1,3 +1,4 @@
+#codigo para calcular o aumento de salario em porcentagem, proporcional ao salario base
 salario = int(input()) 
 
 
